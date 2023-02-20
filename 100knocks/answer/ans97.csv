@@ -1,0 +1,4 @@
+,product_cd,category_major_cd,category_medium_cd,category_small_cd,unit_price,unit_cost,category_major_name,category_medium_name,category_small_name
+0,P040101001,04,401,40101,198.0,149.0,惣菜,御飯類,弁当類
+1,P040101002,04,401,40101,218.0,164.0,惣菜,御飯類,弁当類
+2,P040101003,04,401,40101,230.0,173.0,惣菜,御飯類,弁当類
